@@ -105,9 +105,13 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 ## 🛠️ Regras de negócio
 
 1. **Identifique seu biotipo corporal** consultando a seção de biotipos.
-2. **Determine quantos dias por semana você pode treinar** e escolha o tipo de treino mais adequado.
-3. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos.
-4. Use o prompt do assistente para gerar um plano de treino personalizado.
+2. **Identifique a idade da pessoa**.
+3. **Identifique a altura da pessoa**.
+4. **Identifique o peso da pessoa**.
+5. **Identifique as comorbidades que essa pessoa tem**.
+6. **Determine quantos dias por semana você pode treinar e escolha o tipo de treino mais adequado**.
+7. **Selecione o tipo de exercício que prefere realizar e que se encaixa melhor nos seus objetivos, levado em consideração seu biotipo, idade, altura, peso, comorbidades, dias disponíveis para treinar e tipos de exercício preferidos**.
+8. Use o prompt do assistente para gerar um plano de treino personalizado.
 
 ---
 
