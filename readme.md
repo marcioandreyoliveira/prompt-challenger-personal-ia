@@ -108,10 +108,11 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 2. **Identifique a idade da pessoa**.
 3. **Identifique a altura da pessoa**.
 4. **Identifique o peso da pessoa**.
-5. **Identifique as comorbidades que essa pessoa tem**.
-6. **Determine quantos dias por semana você pode treinar e escolha o tipo de treino mais adequado**.
-7. **Selecione o tipo de exercício que prefere realizar e que se encaixa melhor nos seus objetivos, levado em consideração seu biotipo, idade, altura, peso, comorbidades, dias disponíveis para treinar e tipos de exercício preferidos**.
-8. Use o prompt do assistente para gerar um plano de treino personalizado.
+5. **Identifique o sexo da pessoa**.
+6. **Identifique as comorbidades que essa pessoa tem**.
+7. **Determine quantos dias por semana você pode treinar e escolha o tipo de treino mais adequado**.
+8. **Selecione o tipo de exercício que prefere realizar e que se encaixa melhor nos seus objetivos, levado em consideração seu biotipo, idade, altura, peso, comorbidades, dias disponíveis para treinar e tipos de exercício preferidos**.
+9. Use o prompt do assistente para gerar um plano de treino personalizado.
 
 ---
 
